@@ -1,2 +1,2 @@
-# dio_github
+# Santander Code Girls
 Desafio de Projeto - DIO
